@@ -24,6 +24,7 @@ h1{
 #carouselExampleIndicators{
   height: 700px;
   width: 700px;
+}
 =======
 .sidenav {
   height: 300px;
@@ -61,5 +62,23 @@ h1{
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
->>>>>>> 5c5ef80945f98aa05d51a3c4e9557212c92965ac
+> 5c5ef80945f98aa05d51a3c4e9557212c92965ac
+}
+
+#freudian{
+  height: 700px;
+  width: 700px;
+  align-content: center;
+}
+
+#masego{
+  height: 700px;
+  width: 700px;
+  align-content: center;
+}
+
+#casestudy{
+  height: 700px;
+  width: 700px;
+  align-content: center;
 }

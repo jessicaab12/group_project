@@ -1,8 +1,8 @@
 h1{
   font-weight: bold;
+  font-family: "Georgia";
   color: lightblue;
   font-size: 100px;
-  font-family: monospace;
 }
 
 
@@ -34,57 +34,50 @@ h1{
   background-color: #a7b4c9;
 }
 
-body {
-  font-family: "Lato", sans-serif;
-  transition: background-color .5s;
+#main {
+  transition: margin-left .5s;
+  padding: 16px;
+}
+.sidenav {
+  height: 1000px; /* 100% Full-height */
+  width: 200px; /* 0 width - change this with JavaScript */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: #111; /* Black*/
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 60px; /* Place content 60px from the top */
+  transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
 }
 
-.sidenav {
-  height: 100%;
-  width: 0;
-  position: fixed;
-  z-index: 1;
-  top: 0;
-  left: 0;
-  background-color: #111;
-  overflow-x: hidden;
-  transition: 0.5s;
-  padding-top: 60px;
-}
 
 .sidenav a {
-  padding: 8px 8px 8px 32px;
+  padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 25px;
   color: #818181;
   display: block;
-  transition: 0.3s;
 }
-.navbar {
-  margin-right: 1000px;
-}
+
 
 .sidenav a:hover {
   color: #f1f1f1;
 }
 
-.sidenav .closebtn {
-  position: absolute;
-  top: 0;
-  right: 25px;
-  font-size: 36px;
-  margin-left: 50px;
+
+.main {
+  margin-left: 160px;
+  padding: 0px 10px;
 }
 
-#main {
-  transition: margin-left .5s;
-  padding: 16px;
-}
 
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
+> 5c5ef80945f98aa05d51a3c4e9557212c92965ac
 }
+
 #myCarousel{
   height: 1000px;
 }

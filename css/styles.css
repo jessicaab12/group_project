@@ -5,7 +5,12 @@ h1{
   a;
 }
 
-
+#recommend {
+  margin-left: 300px;
+}
+.email{
+  margin-left: 300px;
+}
 
 #snapchat{
   height: 100px;

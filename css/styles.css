@@ -5,6 +5,12 @@ h1{
   a;
 }
 
+h2{
+  margin-left: 600px;
+  color: Black;
+  font-size: 100px;
+}
+
 #snapchat{
   height: 100px;
   width: 100px;
@@ -20,6 +26,11 @@ h1{
   width: 100px;
 }
 
+.aboutpage{
+  height: 1000px;
+  width: 2000px;
+  background-color: #a7b4c9;
+}
 .sidenav {
   height: 300px;
   width: 160px;

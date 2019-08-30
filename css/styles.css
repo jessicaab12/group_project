@@ -1,15 +1,11 @@
 h1{
   font-weight: bold;
   color: lightblue;
-  font-size: 200px;
+  font-size: 100px;
   a;
 }
 
-h2{
-  margin-left: 600px;
-  color: Black;
-  font-size: 100px;
-}
+
 
 #snapchat{
   height: 100px;
@@ -70,20 +66,7 @@ h2{
 > 5c5ef80945f98aa05d51a3c4e9557212c92965ac
 }
 
-#freudian{
+#myCarousel{
   height: 700px;
   width: 700px;
-  align-content: center;
-}
-
-#masego{
-  height: 700px;
-  width: 700px;
-  align-content: center;
-}
-
-#casestudy{
-  height: 700px;
-  width: 700px;
-  align-content: center;
 }

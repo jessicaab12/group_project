@@ -19,3 +19,8 @@ h1{
   height: 100px;
   width: 100px;
 }
+
+#carouselExampleIndicators{
+  height: 700px;
+  width: 700px;
+}

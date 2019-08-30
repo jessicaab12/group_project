@@ -10,7 +10,7 @@ h1{
 #snapchat{
   height: 100px;
   width: 100px;
-  position: bottom;
+  position: ;
   }
 
 #instagram{
@@ -23,6 +23,11 @@ h1{
   width: 100px;
 }
 
+#search{
+  height: 50px;
+  width: 50px;
+  margin-right: auto;
+}
 .aboutpage{
   height: 1000px;
   width: 2000px;
@@ -68,5 +73,5 @@ h1{
 }
 
 #myCarousel{
-  height: 700px;
+  height: 1000px;
 }
